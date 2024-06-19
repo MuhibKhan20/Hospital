@@ -1,0 +1,8 @@
+/* Corporate pannel list */
+
+.corporate_header_image {
+    background: linear-gradient(180deg, #284CAABD 0%, #03051DA3 100%), url("/itbb.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}

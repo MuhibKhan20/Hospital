@@ -1,0 +1,12 @@
+.book-appointment-btn {
+  margin-left: 20px;
+  /* Existing styles... */
+  background-color: #d7b85c; /* Dark yellow color */
+  padding: 15px 30px; /* Increase padding to expand background area */
+  border-radius: 5px; /* Add rounded corners */
+  transition: all 0.3s ease-in-out; /* Maintain smooth transition effects */
+}
+
+.book-appointment-btn:hover {
+  background-color: #f0b52b; /* Slightly lighter yellow on hover */
+}

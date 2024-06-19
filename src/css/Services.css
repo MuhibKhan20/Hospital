@@ -1,0 +1,38 @@
+
+
+.services_header-image {
+
+    height: 600px;
+    width: 100%;
+    background: linear-gradient(180deg, #284CAABD 0%, #03051DA3 100%) ,url("/services-doctor-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    overflow: hidden;
+    background-attachment: fixed;
+
+}
+
+.services_header-fs {
+    font-size: 4rem;
+}
+
+
+.services_schedule-meeting {
+    background: linear-gradient(90deg, #04072BB5 0%, #03051D26 100%), url("/public/heart-beat-banner.jpg");
+    width: 100%;
+    height: 300px;
+    margin: 100px 0;
+
+}
+
+.services_schedule-meeting-fs {
+    font-size: 3rem;
+}
+
+@media (max-width: 576px) {
+    .services_schedule-meeting-fs {
+        font-size: 2rem;
+        font-weight: bold;
+    }
+}

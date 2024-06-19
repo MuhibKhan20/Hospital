@@ -1,0 +1,8 @@
+.custom-link:hover {
+    color: red !important;
+  }
+  @media (max-width: 768px) {
+    .useful-links-contact .col-md-4 {
+      width: 50%;
+    }
+  }
